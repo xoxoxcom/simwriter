@@ -16,8 +16,11 @@
 notes:
 
 alignment (good/evil - rad/norm)
+
 klout (charisma / social standing (intelligence/wisdom))
+
 capital (money/coins/treasure)
+
 experience (production/crafting)
 
 initial:
