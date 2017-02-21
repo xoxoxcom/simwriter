@@ -1,5 +1,4 @@
 
-sddssd
 
 |  Attribute             | How to Obtain                     | Benefits                    |
 |:---:|:---:|:---:|
