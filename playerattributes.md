@@ -1,5 +1,6 @@
 
 sddssd
+
 |  Attribute             | How to Obtain                     | Benefits                    |
 |:---:|:---:|:---:|
 | *Alignment (good/bad)* | Doctype, eventtype, grouptype, $, | Good > norm++, evil > rad++ |
